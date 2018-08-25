@@ -49,5 +49,5 @@ En los siguentes ejemplos se puede observar como Python primero realizara todas 
 
 ### Ejercicios 
 
-Abrir y descargar el archivo de ejercicios.py y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Replit](https://repl.it/) en el mismo archivo.
+Abrir y descargar el archivo de ejercicios.py y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Repl.it](https://repl.it/) en el mismo archivo.
 
