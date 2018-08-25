@@ -19,6 +19,35 @@
 \>> print(32 / 8)\
 \>> 4
 
-### Orden de ejecucion de las operaciones
+## Orden de ejecucion de las operaciones
 
 Todas las operaciones en Python tienen un orden de ejecucion las cuales se realizaran primero antes que otros, estos son: multiplicacion (*), division (/), suma (+) y resta (-).
+
+### Ejemplos
+
+\>> print(5 * 5 + 5 / 5 - 5)\
+\>> 21
+
+\>> print(2 + 2 * 2 * 2)\
+\>> 10
+
+En los ejemplos anteriores Python realizara primero las operaciones de multiplicacion para seguir division y luego suma termianando con la resta.
+
+## Agrupaciones
+
+En Python las agrupaciones estan dadas por por los simbolos de parentesis "(" y ")" las cuales se usan para agrupar operaciones a realizar, las cuales se realizaran por separado antes de ejecutar las demas operaciones.
+
+### Ejemplos
+
+\>> print((5 + 5) * (5 - 5))\
+\>> 100
+
+\>> print((2 + 2 * 2) / 4)\
+\>> 3
+
+En los siguentes ejemplos se puede observar como Python primero realizara todas las operaciones que se encuentran entre parentesis para luego hacer las otras operaciones con los resultados ya optenidos.
+
+### Ejercicios 
+
+Abrir y descargar el archivo de ejercicios.py y realizar los ejercicios que indican cada uno, realizar los ejercicios en [GitHub](http://https://repl.it) en el mismo archivo.
+
