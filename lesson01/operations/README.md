@@ -7,10 +7,10 @@
 
 ### Ejemplos
 
->> print(2 + 1) 
->> 3
+\>\> print(2 + 1)
+\>\> 3
 
->> print(8 - 5)
+\>> print(8 - 5)
 >> 2
 
 >> print(5 * 7)
