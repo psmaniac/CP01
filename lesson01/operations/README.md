@@ -1,6 +1,6 @@
 ## Operaciones en Python
 
-  * suma           ->  +
-  * resta          ->  -
-  * multiplicacion -> *
-  * division       -> /
+  * suma           ->  (+)
+  * resta          ->  (-)
+  * multiplicacion ->  (*)
+  * division       ->  (/)
