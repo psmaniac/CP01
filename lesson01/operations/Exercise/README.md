@@ -12,4 +12,4 @@ You solve the following exercises with the four operators studied and with the g
 
 ### Exercise 3
 
-  > ![Alt Text](url)
+  > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/03.png)
