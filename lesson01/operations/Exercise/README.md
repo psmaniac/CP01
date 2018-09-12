@@ -13,3 +13,15 @@ You solve the following exercises with the four operators studied and with the g
 ### Exercise 3
 
   > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/03.png)
+  
+### Exercise 4
+
+  > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/04.png)
+  
+### Exercise 5
+
+  > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/05.png)
+
+### Exercise 6
+
+  > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/06.png)
