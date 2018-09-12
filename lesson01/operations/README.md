@@ -25,11 +25,11 @@ Todas las operaciones en Python tienen un orden de ejecucion las cuales se reali
 
 ### Ejemplos
 
-\>> print(5 * 5 + 5 / 5 - 5)\
-\>> 21
+> print(5 * 5 + 5 / 5 - 5)\
+> 21
 
-\>> print(2 + 2 * 2 * 2)\
-\>> 10
+> print(2 + 2 * 2 * 2)\
+> 10
 
 En los ejemplos anteriores Python realizara primero las operaciones de multiplicacion para seguir division y luego suma termianando con la resta.
 
@@ -39,11 +39,11 @@ En Python las agrupaciones estan dadas por por los simbolos de parentesis "(" y 
 
 ### Ejemplos
 
-\>> print((5 + 5) * (5 - 5))\
-\>> 100
+> print((5 + 5) * (5 - 5))\
+> 100
 
-\>> print((2 + 2 * 2) / 4)\
-\>> 3
+> print((2 + 2 * 2) / 4)\
+> 3
 
 En los siguentes ejemplos se puede observar como Python primero realizara todas las operaciones que se encuentran entre parentesis para luego hacer las otras operaciones con los resultados ya optenidos.
 
