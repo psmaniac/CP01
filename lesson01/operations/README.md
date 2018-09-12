@@ -7,17 +7,17 @@
 
 ### Ejemplos
 
-\>> print(2 + 1)\
-\>> 3
+> print(2 + 1)
+> 3
 
-\>> print(8 - 5)\
-\>> 2
+> print(8 - 5)
+> 2
 
-\>> print(5 * 7)\
-\>> 35
+> print(5 * 7)
+> 35
 
-\>> print(32 / 8)\
-\>> 4
+> print(32 / 8)
+> 4
 
 ## Orden de ejecucion de las operaciones
 
