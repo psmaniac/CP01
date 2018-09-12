@@ -49,5 +49,5 @@ En los siguentes ejemplos se puede observar como Python primero realizara todas 
 
 ### Ejercicios 
 
-Abrir y descargar el archivo de ejercicios.py y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Repl.it](https://repl.it/) en el mismo archivo.
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/operations/Exercise/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Repl.it](https://repl.it/) usando Python como lenguaje.
 
