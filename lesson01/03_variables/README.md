@@ -56,3 +56,7 @@ Ejemplo
 >      diferencia_estatura_hombre_mujer = 15 //Bien
 >
 >El nombrar variables depende de cada programador, estos son solo pautas de buenas practicas para que el trabajo del programador se mas facil, y que otros programadores puedan entender tu codigo, o tu mismo puedes entenderlo, asi que no es obligatorio seguir estas pautas.
+
+### Ejercicios 
+
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/02_extra_operations/Exercices/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usra Python en [Repl.it](https://repl.it/).
