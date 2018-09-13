@@ -21,3 +21,6 @@ You solve the following exercises using functions and  the operators studied, yo
 ### Exercise 5
 
   > ![python](https://github.com/psmaniac/CP01/blob/master/lesson01/02_extra_operations/Exercices/Ex06.gif)
+
+
+The finished the exercises, open the page and answer the questions, [Repl.it](testmoz.com/1821372), the password: github
