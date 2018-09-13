@@ -80,4 +80,4 @@ Ejemplo
   
 ### Ejercicios 
 
-Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/01_operations/Exercises/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Repl.it](https://repl.it/) usando Python como lenguaje.
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/02_extra_operations/Exercices/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, realizar los ejercicios en [Repl.it](https://repl.it/) usando Python como lenguaje.
