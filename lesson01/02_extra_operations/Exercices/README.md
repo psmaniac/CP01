@@ -1,4 +1,4 @@
-# Exercises of operations
+# Exercises of extra operations
 
 You solve the following exercises using functions and  the operators studied, you can using python in  [Repl.it](https://repl.it/).
 
