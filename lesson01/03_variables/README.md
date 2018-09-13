@@ -53,6 +53,6 @@ Ejemplo
 >      altura_mujer = 164 //Bien
 >    - No se pierde rendimento al usar mas caracteres al nombrar una variable, asi que si es necesario usar mas de dos palabras, se tiene que hacer.\
 >      diferenciaHM = 15 //Mal\
->      diferencia_estatura_hombre_mujer = 15 //Bien\
+>      diferencia_estatura_hombre_mujer = 15 //Bien
 >
 >El nombrar variables depende de cada programador, estos son solo pautas de buenas practicas para que el trabajo del programador se mas facil, y que otros programadores puedan entender tu codigo, o tu mismo puedes entenderlo, asi que no es obligatorio seguir estas pautas.
