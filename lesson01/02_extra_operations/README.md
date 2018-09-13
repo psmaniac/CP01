@@ -22,7 +22,7 @@ Ejemplo
 
 ### Resto de la division
 
-Esta es una de las funciones mas llamativas en programacion ya que muchos algoritmos trabajan con el resto de las divisiones, en Python se calcula mediante el operado %, al igual que el cociente este nos devolvera un valor entero sin decimales.
+Esta es una de las funciones mas llamativas en programacion ya que muchos algoritmos trabajan con el resto de las divisiones, en Python se calcula mediante el operador %, al igual que el cociente este nos devolvera un valor entero sin decimales.
 
 Ejemplo
 
