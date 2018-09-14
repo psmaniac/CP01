@@ -59,4 +59,4 @@ Ejemplo
 
 ### Ejercicios 
 
-Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/02_extra_operations/Exercices/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usra Python en [Repl.it](https://repl.it/).
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/tree/master/lesson01/03_variables/Exercises) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usar Python en [Repl.it](https://repl.it/).
