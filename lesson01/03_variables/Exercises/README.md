@@ -8,4 +8,4 @@ Read the following article [Keywords in Python](https://www.programiz.com/python
 
 Read the following article [Una buena práctica para escribir código: nombrar elementos](https://platzi.com/blog/buena-practica-codigo-nombrar-elementos/), remember the good practices of the programmer, these apply to any language.
 
-Finished the practice, answer the following questions of [**Practice #3**](https://www.programiz.com/python-programming/keyword-list), the password: *github*
+Finished the practice, answer the following questions of [**Practice #3**](https://testmoz.com/1821548), the password: *github*
