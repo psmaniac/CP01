@@ -3,14 +3,13 @@
 Antes de iniciar con los tipos, es necesario saber que son las variables mutables e inmutables.
 
 ### Tipos de datos inmutables
-Estas son las variables cuyo valor no se puede cambiar, modificar o actualizar su contenido, pero como variable se puede asignar otro valor a este.
+Estas son las variables cuyo contenido no se puede cambiar, modificar o actualizar, pero se puede asignar otro valor a este como cualquier varable.
 
 Ejemplo
 >  var = "hello world" // Esta variable es inmutable ya que no podemos cambiar solo la letra "h" con una "H"\
 >  var = "Hello world" // Pero si podemos asignar otro valor a la variable var con la cadena "Hello world"
 
-En el ejemplo anterior no se pudo cambiar solo una letra de la variable, sino que se tubo que camniar toda la variable siendo esta un nuevo valor asignado a la variabel var.
-
+En el ejemplo anterior no se pudo cambiar solo una letra de la variable, sino que se tubo que cambiar todo el valor o contenido de este.
 En esta categoria entra los siguentes tipos de datos:
 
 **int**. Este tipo de datos engloba todos los numero enteros positivos y negativos con un rango de (-32768 a +32768).
