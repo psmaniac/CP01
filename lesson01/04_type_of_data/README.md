@@ -13,7 +13,7 @@ En el ejemplo anterior no se pudo cambiar solo una letra de la variable, sino qu
 
 En esta categoria entra los siguentes tipos de datos:
 
-**int**. Este tipo de datos engloba todos los numero enteros positivos y negativos con un rango de (-32768 - 32768).
+**int**. Este tipo de datos engloba todos los numero enteros positivos y negativos con un rango de (-32768 a +32768).
 
 Ejemplo
 >  number = 123\
@@ -47,3 +47,46 @@ Ejemplo
 >  boolean = True\
 >  type(boolean)\
 >  <type 'bool'>
+
+**string**. Este tipo de datos engloba a los caracteres o conjunto de estos denominado texto, las cuales se asignan entre corchetes simples o dobles (",") o (',').
+
+Ejemplo
+>  text = "Hello world"\
+>  text = 'Hello world'
+>  type(text)\
+>  <type 'str'>
+
+**tuple**. Las tuplas son un conjunto de datos ordenados, las cuales siguen un orden empezando de 0 a n.
+
+Ejemplo
+>  var_tuple = (1, 2, 3, "a", "b", "c)\
+>  type(var_tuple)
+>  <type 'tuple
+>  print(var_tuple[1])
+>  2
+>  print(var_tuple[4])
+>  "b"
+
+### Tipos de datos mutables
+
+En este tipo de datos, los valores pueden ser modificado independientemente cada uno a diferencia de los inmutables que para cambiar el valor se debe cambiar todo, en este apartado se enfocara en las listas en Python y al igual que una tupla el indice de los elementos empieza en 0.
+
+**list**. Para declarar una lista en Python se tiene dos opciones:
+
+>  list_1 = \[1, 2, 3, "a", "b", "c"]\
+>  list_2 = list(1, 2, 3, "a", "b", "c")\
+>  print(list_1)\
+>  \[1, 2, 3, 'a', 'b', 'c']\
+>  print(list_1\[3])\
+>  'a'
+>  list_1\[3]= "hello"\
+>  print(list_1\[3])\
+>  'hello'
+
+En una lista se puede cambiar el valor de un solo dato indicandole el indice o posicion del valor a reeemplazar, este tipo de variable tiene muchos metodos o funciones las cuales se puede aprobechar para el manejo de datos, las cuales se veran con mas detenimiento en metodos y funciones basicos en Python.
+
+### Ejercicios 
+
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/tree/master/lesson01/03_variables/Exercises) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usar Python en [Repl.it](https://repl.it/).
+
+
