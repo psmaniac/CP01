@@ -74,9 +74,9 @@ list_2: 'hello', 'True', '-785', '0.4587', ' ', 'k'
 
 Make the following operations:
 
-> add all the elements of the list_1
-> add all the elements of the list_2
-> add (list_1(3) + list_2(0)) // string
+> add all the elements of the list_1\
+> add all the elements of the list_2\
+> add (list_1(3) + list_2(0)) // string\
 > list_2(2) + list_1(0) * list_2(2) //float
 
 Finished the practice, answer the following questions of [**Practice #4**](https://testmoz.com/1828234), the password: *github*
