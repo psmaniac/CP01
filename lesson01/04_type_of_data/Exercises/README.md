@@ -54,4 +54,8 @@ Make operations between different types of data and analyze this results:
 > var16, var18\
 > var8, var7
 
+### Exercise 4
+
+Make the following operations with type of data specific using convert function:
+
 Finished the practice, answer the following questions of [**Practice #3**](https://testmoz.com/1821548), the password: *github*
