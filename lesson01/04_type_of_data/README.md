@@ -19,7 +19,7 @@ Ejemplo
 >  type(number)\
 >  <type 'int'>
 
-**long**. Este tipo de datos engloba todos los numero enteros de cualquier tamanio teniendo como limitante la memoria de la computadora, en Python para determinar un dato long se pone la letra **L** al final del valor.
+**long**. Este tipo de datos engloba todos los numero enteros de cualquier tamanio teniendo como limitante la memoria de la computadora, en Python para determinar un dato long se pone la letra **L** al final del valor, actualmetne en python 3.X no es necesario declarar este tipo de dato ya que maneja al igual que un int largo.
 
 Ejemplo
 >  number_long = 123456789L\
@@ -40,7 +40,7 @@ Ejemplo
 >  type(number_complex)\
 >  <type 'complex'>
 
-**bool**. Este tipo de datos tambien llamado booleano, almacena dos valores: True(Verdadero) y False(Falso), estos valores son utilizados como resultados de operaciones logicas o binarias.
+**bool**. Este tipo de datos tambien llamado booleano, almacena dos valores: True(Verdadero) o 1(uno) y False(Falso) o 0(cero), estos valores son utilizados como resultados de operaciones logicas o binarias.
 
 Ejemplo
 >  boolean = True\
