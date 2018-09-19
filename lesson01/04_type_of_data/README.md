@@ -86,6 +86,6 @@ En una lista se puede cambiar el valor de un solo dato indicandole el indice o p
 
 ### Ejercicios 
 
-Abrir el archivo [README.md](https://github.com/psmaniac/CP01/tree/master/lesson01/03_variables/Exercises) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usar Python en [Repl.it](https://repl.it/).
+Abrir el archivo [README.md](https://github.com/psmaniac/CP01/blob/master/lesson01/04_type_of_data/Exercises/README.md) de la carpeta de ejercicios y realizar los ejercicios que indican cada uno, para asegurar sus respuestas puede usar Python en [Repl.it](https://repl.it/).
 
 
