@@ -58,4 +58,25 @@ Make operations between different types of data and analyze this results:
 
 Make the following operations with type of data specific using convert function:
 
-Finished the practice, answer the following questions of [**Practice #3**](https://testmoz.com/1821548), the password: *github*
+* var1 + var8 * var20 // int
+* var5 + var2 // string
+* var6 * var14 + var7 // string
+* var14 + var1 - var7 // float
+* var15 + var13 // int
+* (var10 + var3)* var7 // string
+
+### Exercise 5
+
+Create the following lists sets:
+
+list_1: 12, 78.5, 0.125, -98, 45876.3, -1.13141569
+list_2: 'hello', 'True', '-785', '0.4587', ' ', 'k'
+
+Make the following operations:
+
+> add all the elements of the list_1
+> add all the elements of the list_2
+> add (list_1(3) + list_2(0)) // string
+> list_2(2) + list_1(0) * list_2(2) //float
+
+Finished the practice, answer the following questions of [**Practice #4**](https://testmoz.com/1821548), the password: *github*
