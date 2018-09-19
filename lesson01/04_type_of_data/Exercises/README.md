@@ -60,7 +60,7 @@ Make the following operations with type of data specific using convert function:
 
 * var1 + var8 * var20 // int
 * var5 + var2 // string
-* var6 * var14 + var7 // string
+* var6 * int(var14) + var7 // string
 * var14 + var1 - var7 // float
 * var15 + var13 // int
 * (var10 + var3)* var7 // string
@@ -79,4 +79,4 @@ Make the following operations:
 > add (list_1(3) + list_2(0)) // string
 > list_2(2) + list_1(0) * list_2(2) //float
 
-Finished the practice, answer the following questions of [**Practice #4**](https://testmoz.com/1821548), the password: *github*
+Finished the practice, answer the following questions of [**Practice #4**](https://testmoz.com/1828234), the password: *github*
