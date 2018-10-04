@@ -5,6 +5,12 @@ Como se menciono en la leccion anterior los datos booleanos son datos que pueden
 > True: Verdadero, 1\
 > False: Falso, 0
 
-En Python tambien se tiene la palabra reservada not el cual invierte el valor booleano.
+En Python tambien se tiene la palabra reservada not el cual invierte el valor booleano.\
 
-## Operaciones logicas
+Los elementos que dan valores False en Python son: None, 0 (Entero o flotante), False, Variables en forma de colecciones vacias (Tuplas, Listas, Cadenas y Diccionarios) y otros que veremos mas adelante.
+
+## Operaciones logicas de comparacion
+
+
+
+
